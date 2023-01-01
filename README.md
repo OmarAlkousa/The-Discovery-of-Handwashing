@@ -9,8 +9,6 @@ This is mainly one of the interesting [DataCamp](https://app.datacamp.com/learn)
 - Data Visualization
 - Probability & Statistics
 - Importing & Cleaning Data
-- Data Manipulation
-- Data Visualization
 - Case Studies
 
 You can do the project yourself following this [link](https://app.datacamp.com/learn/projects/discovery-of-handwashing) on DataCamp using Python or R.
