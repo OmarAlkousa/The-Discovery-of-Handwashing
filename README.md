@@ -12,3 +12,7 @@ This is mainly one of the interesting [DataCamp](https://app.datacamp.com/learn)
 - Case Studies
 
 You can do the project yourself following this [link](https://app.datacamp.com/learn/projects/discovery-of-handwashing) on DataCamp using Python or R.
+
+<p align="center">
+  <img src="https://github.com/OmarAlkousa/The-Discovery-of-Handwashing/blob/main/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/datasets/Proportion_Deaths_Before_and_After_Handwashing.png", width="400">
+</p>
