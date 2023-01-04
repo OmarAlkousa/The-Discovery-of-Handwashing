@@ -14,7 +14,7 @@ This is mainly one of the interesting [DataCamp](https://app.datacamp.com/learn)
 
 ### The Datasets are:
 - **Yearly Death by Clinic (CSV)**: the yearly total of births and deaths in the two clinics that Ignaz was working at (from 1841 to 1846).
-- **Monthly Death (CSV)**: The monthly total of births and deaths (from 01-01-1841 to 01-01-1849).
+- **Monthly Death (CSV)**: The monthly total of births and deaths (from 01-01-1841 to 01-03-1849).
 
 
 More about Ignaz Semmelwis and the story of hand washing can be found in this [article](https://qualitysafety.bmj.com/content/13/3/233).
